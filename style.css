@@ -1,0 +1,28 @@
+#man {
+	position: absolute;
+}
+
+h1 {
+	text-align: center;
+	font-size: 200px;
+	color: #E9ADDD;
+	text-shadow: 5px 5px #ADF1FE;
+}
+
+h1:hover {
+	color: #ADF1FE;
+	text-shadow: 5px 5px #E9ADDD;
+}
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: #E9ADDD;
+	text-align: center;
+}
+
+#man img {
+	width:100%;
+}
